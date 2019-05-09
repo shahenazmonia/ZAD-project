@@ -1,6 +1,6 @@
 # ZAD-project
 
-ZAD project is an app to display all Zad Al-kheir restaurant services, The users can order whatever they want and decide if they want to pick up their orders in person from the shop or get the delivery service.
+ZAD project is a mobile app to display all Zad Al-kheir restaurant services, the users can order whatever they want and decide if they want to pick up their orders in person from the shop or get the delivery service.
 
 
 
